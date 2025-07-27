@@ -6,7 +6,7 @@
 ### 1. Smart Irrigation System  
 ### Objective: Automate the watering process based on soil moisture levels to conserve water and reduce manual effort.  
 
-## Key Features:  
+### Key Features:  
 ### 
 - Used a soil moisture sensor to detect real-time water levels in the soil.  
 - Controlled a water pump with a relay module based on sensor input.  
@@ -17,7 +17,7 @@
 ### 2. Voice-Controlled Robot  
 ### Objective: Design a robot that responds to voice commands for movement, such as forward, reverse, left, and right. 
 
-## Key Features:
+### Key Features:
 ###
 - Integrated a voice recognition module to detect and interpret user commands.  
 - Controlled robot movement with DC motors driven by a motor driver.
