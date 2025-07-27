@@ -12,6 +12,9 @@
 - System provides autonomous irrigation, ideal for agricultural and home garden applications.  
 - Built using Arduino UNO, with code written in embedded C using the Arduino IDE.
 
+### 2. Voice-Controlled Robot  
+### Objective: Design a robot that responds to voice commands for movement, such as forward, reverse, left, and right. 
+
 ## Tools & Skills Used:  
 ### Microcontroller: Arduino UNO  
 
